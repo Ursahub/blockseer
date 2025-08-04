@@ -9,6 +9,6 @@ Blockseer — утилита для оценки шансов подтвержд
 ## 🔧 Установка
 
 ```bash
-git clone https://github.com/yourname/blockseer.git
+git clone https://github.com/Ursahub/blockseer.git
 cd blockseer
 pip install -r requirements.txt
